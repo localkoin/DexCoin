@@ -1,0 +1,34 @@
+/keys
+src/*.exe
+src/DexCoin
+src/test_DexCoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.DexCoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+DexCoin-qt
+DexCoin-Qt.app
+
+# Unit-tests
+Makefile.test
+DexCoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
