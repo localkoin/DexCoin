@@ -4,7 +4,7 @@ Copyright (c) 2019 DexCoin Developers
 
 What is DexCoin?
 ----------------
-http://www.dexcoin.com
+http://www.localkoin.OK
 
 DexCoin (DXC) is a peer-to-peer and business-to-business cryptocurrency designed 
 with a long-term vision in mind. We are determined to create a resilient digital 
